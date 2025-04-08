@@ -14,6 +14,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RHuebner1972&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=RHuebner1972)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **RHuebner1972/RHuebner1972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
