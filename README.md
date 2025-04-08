@@ -7,15 +7,14 @@
 
 ## 🚀 What I'm Working On
 - Writing a book on dissertation strategies 📖
+- Prompt engineering for an AI Tutor
+- Developing a way to manage prompts via a database
 - Researching using LLMs to chat with CSV files and database tables from Snowflake 📊
 - Exploring propensity models
 
 📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/RichHuebner)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RHuebner1972&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RHuebner1972)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <!--
 **RHuebner1972/RHuebner1972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
