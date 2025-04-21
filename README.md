@@ -5,9 +5,17 @@
 💡 AI Enthusiast & Founder of NexusAIHub 
 🏍️ Motorcycle Rider | 🌍 Traveler  
 
+# Tech Stack
+- I use my Python, R, and SQL skills for coding data science, machine learning, and AI solutions. Frameworks range from pytorch, pands, keras/tensorflow, langchain, and more.
+- I develop SQL in databases like: redshift, snowflake, mongodb, mysql, postgres
+- For data visualizations, I use PowerBI, Tableau, and R/Python stuff like ggplot2, matplotlib, seaborn, plotly, etc.
+- I am particularly passionate about the insights gained from unsupervised machine learning techniques like clustering, association rules, and dimensionality reduction with PCA.
+- If you're up for talking about HC-PCA (and know what that referrs to) then I'm in! I love dendrograms! I used this technique recently for building new marketing personas.
+
 ## 🚀 What I'm Working On
-- Writing a book on dissertation strategies 📖
+- A Web scraper for DEI-related search 📖
 - Prompt engineering for an AI Tutor
+- Clustering and association rule (aka frequent itemset mining) for product-related insights
 - Developing a way to manage prompts via a database
 - Researching using LLMs to chat with CSV files and database tables from Snowflake 📊
 - Exploring propensity models
